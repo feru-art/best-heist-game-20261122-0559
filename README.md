@@ -4,11 +4,14 @@
 [![rank](https://make.fun/badge/best-heist-game-20261122-0559/feru-art/best-heist-game-20261122-0559/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 [![reward](https://make.fun/badge/best-heist-game-20261122-0559/feru-art/best-heist-game-20261122-0559/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 
-Vaultlight — a museum heist game in three rooms. Steal the loot, read the
-guards' vision cones, slip past the CCTV, and get away clean. Top-down 2D
-canvas, played with keyboard and mouse in a desktop browser. Guards patrol
-and investigate noise, cameras sweep and raise the alarm, smoke and EMP are
-tools at a cost, and vent ducts offer a slow hidden route through each room.
+Blueprint — a planning-heavy heist game drawn as a living architect's
+blueprint. Draw your route on the floor plan before the run; the planned
+line stays visible during execution, and following it earns a bonus. Read
+the guards' vision cones, slip past the cameras, spend coins on Decoy and
+EMP tools, hide in service vents, hit the loot quota in each of three
+levels, and reach the getaway exit before the alarm locks the building
+down. Top-down 2D canvas, played with keyboard and mouse in a desktop
+browser.
 
 ## Run it
 
